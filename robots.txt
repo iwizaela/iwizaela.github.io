@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://iwizaela.github.io/GJC/sitemap_index.txt
+Sitemap: https://iwizaela.github.io/Hfa/sitemap_index.txt
+Sitemap: https://iwizaela.github.io/Xul/sitemap_index.txt
+Sitemap: https://iwizaela.github.io/xRP/sitemap_index.txt
